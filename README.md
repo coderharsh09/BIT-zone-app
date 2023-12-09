@@ -2,7 +2,7 @@
 Team name: Solaris
 Team Members: Ritik Kumar
               Abhishek Kumar
-              Harsh Kumar
+              Harsh Raj
               Shivam
 Problem Statement: An app that handles all of the challenges that college students experience, such as obtaining an internship or employment, balancing their life and education, negotiating student loan debt, organizing their assignments, establishing deadlines, and keeping track of their grades. It’s one of the most creative hackathon problem statements for beginners.
 
